@@ -4,7 +4,7 @@
 	"repository": "https://github.com/kzinthant-kas/slam_easy_deploy",
 	"keywords": ["Slam","Slam Mirror Bot"],
         "website": "https://t.me/drivetalk",
-        "success_url": "https://github.com/kzinthant-kas/autobackup/main/README.md",
+        "success_url": "https://github.com/RepoLink/autobackup/main/README.md",
 	"env": {
     "accounts_zip_url":{
       "description": "Put direct download link of service accounts zip",
