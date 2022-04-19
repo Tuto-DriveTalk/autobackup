@@ -1,7 +1,7 @@
 {
 	"name": "AutoBackUp Script",
 	"description": "Backup Google Shared Drive automatically",
-	"repository": "https://github.com/kzinthant-kas/slam_easy_deploy",
+	"repository": "https://github.com/RepoLink?tab=repositories",
 	"keywords": ["Slam","Slam Mirror Bot"],
         "website": "https://t.me/drivetalk",
         "success_url": "https://github.com/RepoLink/autobackup/main/README.md",
