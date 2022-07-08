@@ -1,1 +1,1 @@
-worker: python3 start.py
+web: bash start.sh
